@@ -1,5 +1,6 @@
 package com.dn.java1;
 
-public class Frosting {
+public interface Frosting {
+    String getFrostingType();
 
 }

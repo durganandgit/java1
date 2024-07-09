@@ -1,4 +1,6 @@
 package com.dn.java1;
 
-public class Syrup {
+public interface Syrup {
+    String getSyrupType();
+
 }
